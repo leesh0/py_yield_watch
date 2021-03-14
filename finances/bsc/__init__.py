@@ -1,1 +1,1 @@
-from .beefy import *
+from .wallet import Wallet
