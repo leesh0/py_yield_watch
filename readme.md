@@ -1,6 +1,8 @@
 # PY_YIELD_WATCH
 
-> defi vaults & finance yield reader by Python.
+> defi vaults & finance yield reader by Python.(py-web3)
+>
+> Powered by. [BscScan](https://bscscan.com/)
 
 ## Support
 
